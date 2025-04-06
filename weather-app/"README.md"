@@ -1,6 +1,6 @@
 # 🌦️ Interactive Python Weather App
 
-A simple but powerful Python app that fetches and displays current weather information based on user input. Uses OpenWeatherMap's API and provides a friendly interface.
+A simple but powerful Python app that fetches and displays current weather information based on user input. Uses the SheCodes Weather API and provides a friendly interface via the command line.
 
 ---
 
@@ -15,9 +15,9 @@ A simple but powerful Python app that fetches and displays current weather infor
 
 ## 🧰 Tech Stack
 
-- Python
-- Requests
-- OpenWeather API
+- Python  
+- Requests  
+- SheCodes Weather API
 
 ---
 
