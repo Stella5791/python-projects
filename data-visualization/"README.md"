@@ -4,6 +4,12 @@ A Python project that reads population data from a CSV file and visualizes it us
 
 ---
 
+## 🌐 Live Demo
+
+👉 [Try it on Replit](https://replit.com/@smbu123/python-data-visualization-project)
+
+---
+
 ## ✨ Features
 
 - 📊 Reads structured CSV data (e.g., countries, years, population counts)
