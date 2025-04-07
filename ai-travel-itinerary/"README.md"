@@ -1,15 +1,28 @@
-# 🐍 Python Projects by Stella Bullo
+# 🌍🧠 AI Travel Itinerary Generator
 
-Welcome to my Python project collection!  
-This repo showcases my learning journey and projects as I work towards freelance and internship roles in Python development.
+This Python script uses AI logic to generate a custom travel itinerary based on a destination and number of days. It's a creative example of how Python can simulate intelligent outputs using prompt-based logic and control structures.
 
----
+## 🌐 Live Demo
 
-## 📁 Projects
+👉 [Run on Google Colab](https://colab.research.google.com/drive/1K43At0WutS7nvRhELn1iJQ272PSGonL9?usp=sharing)
 
-### 🧳 [AI Travel Itinerary Generator](./ai-travel-itinerary)
-A command-line Python app that fetches real-time weather and AI-generated itineraries using multiple APIs and the `rich` library.
+## 🚀 Overview
 
----
+You input your destination and trip duration, and the script returns a multi-day itinerary. It's a fun tool that blends creativity with programming, demonstrating functions, loops, and formatted output.
 
-More projects coming soon!
+## 🧪 How It Works
+
+1. The user is prompted to enter:
+   - A travel destination
+   - The number of days for the trip  
+2. The script loops through each day and generates a set of itinerary suggestions.
+3. Each day includes:
+   - Activities
+   - Food/restaurant ideas
+   - Optional extras like shopping or sightseeing
+
+> *Note: This version does not use a real AI model or API. It simulates AI output with custom logic and content.*
+
+👩‍💻 Made with ❤️ by Stella Bullo  
+🔗 [GitHub](https://github.com/Stella5791) | [Portfolio Site](https://stellabullo.netlify.app/)
+
