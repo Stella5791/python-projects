@@ -1,27 +1,37 @@
-# 🌦️ Interactive Python Weather App
+# ⛅ Weather App (Python + API)
 
-A simple but powerful Python app that fetches and displays current weather information based on user input. Uses the SheCodes Weather API and provides a friendly interface via the command line.
+A simple command-line weather application that fetches real-time weather data for any city using the OpenWeatherMap API. Great for practicing API integration, working with JSON responses, and user input.
+
+---
+
+## 🌐 Live Demo
+
+👉 [Run it on Replit](https://replit.com/@smbu123/WeatherApp)
 
 ---
 
 ## ✨ Features
 
-- 🔍 Takes user input for a city and fetches real-time weather data
-- 🌡️ Displays temperature, humidity, and weather conditions
-- 🖥️ Interactive user experience via command line
-- 🔌 Demonstrates basic API integration in Python
+- 🌍 Fetches weather data by city name
+- 🧠 Uses the OpenWeatherMap API to retrieve real-time weather information
+- 📦 Parses JSON responses and displays:
+  - Temperature
+  - Weather condition
+  - Humidity
+  - Wind speed
+- 🧪 Command-line interaction with clean prompts and output
 
 ---
 
 ## 🧰 Tech Stack
 
-- Python  
-- Requests  
-- SheCodes Weather API
+- Python 3
+- Requests (for API calls)
+- OpenWeatherMap API
 
 ---
 
-## 🚀 How to Run
+## 🚀 How to Run Locally
 
 1. Clone or download this folder
 2. Install the required package:
